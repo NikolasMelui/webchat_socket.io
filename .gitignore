@@ -1,0 +1,22 @@
+/assets/test_case.jpg
+/assets/test_case_prog.psd
+
+#config_file
+config.json
+
+#idea_settings
+.idea/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
